@@ -1,0 +1,3 @@
+Model               	Val Time [ms] 	Params [M]	FLOPs [G] 	Acts [M]	Mem [M] 	Conv    
+00_RLFN_baseline    	18.50         	0.317     	19.67     	80.05   	468.77  	  39    
+01_EFQN             	15.31         	0.441     	28.85     	56.62   	222.95  	  14    
